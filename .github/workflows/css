@@ -1,0 +1,26 @@
+papeletas_app/
+│ pubspec.yaml
+│ analysis_options.yaml
+│ main.dart
+│
+├── lib/
+│   │ main.dart
+│   │ routes.dart
+│   │
+│   ├── pages/
+│   │   ├── login_page.dart
+│   │   ├── home_estudiante.dart
+│   │   ├── solicitar_papeleta.dart
+│   │   ├── ver_papeleta.dart
+│   │   ├── home_docente.dart
+│   │   ├── home_jefe.dart
+│   │   └── validar_qr.dart
+│   │
+│   ├── services/
+│   │   └── api.dart
+│   │
+│   └── widgets/
+│       └── button_primary.dart
+│
+└── android/
+    (Flutter genera esto automáticamente)
